@@ -1,4 +1,4 @@
-*Description(#include <stdlib.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 /**
@@ -21,4 +21,4 @@ int main(void)
 		printf("%i is zero\n", n);
 
 	return (0);
-})
+}
